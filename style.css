@@ -162,7 +162,7 @@ button a:visited {
 
 .btn-facebook {
   background: #3b5998;
-  color: #fff;
+  color: #fff !important;
 }
 
 .search-button {
